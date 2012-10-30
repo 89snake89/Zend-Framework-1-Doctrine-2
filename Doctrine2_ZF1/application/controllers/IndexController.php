@@ -72,14 +72,12 @@ class IndexController extends Zend_Controller_Action
     
     public function searchAction() {
     	$dm = Zend_Registry::get('DoctrineDocumentManager');
-    	//echo "<h1>Document Manager </h1>";
-    	//Zend_Debug::dump($dm);
+    	
     	$log = new LogMongo();
     	$select = $dm->createQueryBuilder('Application\Documents\LogMongo');
-    	//Zend_Debug::dump($select->find('Application\Documents\LogMongo'));
+    	
     	$risultato = $select->field('user_code')->equals("ENI")->sort("log_title", "asc");
-    	//die("ciao");
-    	//$risultato = $select->distinct("log_title");
+    	
     	$query = $risultato->getQuery()->execute();
     	
     	foreach ($query as $row){
