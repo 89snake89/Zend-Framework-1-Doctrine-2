@@ -1,7 +1,0 @@
-END
-WebpiCmdLine.exe
-K 25
-svn:wc:ra_dav:version-url
-V 199
-/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder/resources/PhpOnAzure.Web/resources/WebPICmdLine/WebpiCmdLine.exe
-END
