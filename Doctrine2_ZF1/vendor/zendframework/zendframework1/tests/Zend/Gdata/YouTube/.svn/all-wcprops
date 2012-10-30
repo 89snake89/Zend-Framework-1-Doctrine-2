@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube
+END
+VideoFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/VideoFeedTest.php
+END
+VideoQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/VideoQueryTest.php
+END
+InboxEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/InboxEntryTest.php
+END
+InboxFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/InboxFeedTest.php
+END
+SubscriptionEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/SubscriptionEntryTest.php
+END
+SubscriptionFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/SubscriptionFeedTest.php
+END
+PlaylistVideoEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/PlaylistVideoEntryTest.php
+END
+PlaylistVideoFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/PlaylistVideoFeedTest.php
+END
+ContactEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/ContactEntryTest.php
+END
+ActivityEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/ActivityEntryTest.php
+END
+PlaylistListEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/PlaylistListEntryTest.php
+END
+ContactFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/ContactFeedTest.php
+END
+ActivityFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/ActivityFeedTest.php
+END
+UserProfileEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/UserProfileEntryTest.php
+END
+PlaylistListFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/PlaylistListFeedTest.php
+END
+CommentEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/CommentEntryTest.php
+END
+CommentFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/CommentFeedTest.php
+END
+VideoEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/YouTube/VideoEntryTest.php
+END

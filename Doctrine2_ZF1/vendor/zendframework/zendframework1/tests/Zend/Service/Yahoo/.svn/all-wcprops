@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Yahoo
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Yahoo/AllTests.php
+END
+OfflineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Yahoo/OfflineTest.php
+END
+OnlineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Yahoo/OnlineTest.php
+END

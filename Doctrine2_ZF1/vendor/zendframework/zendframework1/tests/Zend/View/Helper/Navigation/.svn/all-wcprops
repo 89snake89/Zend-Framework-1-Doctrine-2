@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation
+END
+BreadcrumbsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/BreadcrumbsTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/AllTests.php
+END
+NavigationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/NavigationTest.php
+END
+LinksTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/LinksTest.php
+END
+SitemapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/SitemapTest.php
+END
+TestAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/TestAbstract.php
+END
+MenuTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/MenuTest.php
+END

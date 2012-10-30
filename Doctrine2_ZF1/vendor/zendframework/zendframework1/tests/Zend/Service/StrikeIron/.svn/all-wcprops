@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron
+END
+StrikeIronTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron/StrikeIronTest.php
+END
+ZipCodeInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron/ZipCodeInfoTest.php
+END
+BaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron/BaseTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron/AllTests.php
+END
+ExceptionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron/ExceptionTest.php
+END
+NoSoapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron/NoSoapTest.php
+END
+USAddressVerificationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron/USAddressVerificationTest.php
+END
+DecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron/DecoratorTest.php
+END
+SalesUseTaxBasicTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/StrikeIron/SalesUseTaxBasicTest.php
+END

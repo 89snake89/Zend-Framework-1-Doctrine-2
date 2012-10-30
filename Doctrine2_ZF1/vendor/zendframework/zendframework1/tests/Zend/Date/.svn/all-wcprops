@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Date
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Date/AllTests.php
+END
+DateObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Date/DateObjectTest.php
+END

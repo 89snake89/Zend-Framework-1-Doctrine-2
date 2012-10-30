@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Db/_files/Db
+END
+MockHasResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Db/_files/Db/MockHasResult.php
+END
+MockNoResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Db/_files/Db/MockNoResult.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Sitemap
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Sitemap/AllTests.php
+END
+LocTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Sitemap/LocTest.php
+END
+PriorityTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Sitemap/PriorityTest.php
+END
+ChangefreqTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Sitemap/ChangefreqTest.php
+END
+LastmodTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Sitemap/LastmodTest.php
+END

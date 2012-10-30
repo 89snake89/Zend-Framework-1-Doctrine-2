@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/AllTests.php
+END
+MyLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/MyLoader.php
+END
+AutoloaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/AutoloaderTest.php
+END
+AutoloaderMultiVersionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/AutoloaderMultiVersionTest.php
+END
+StandardAutoloaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/StandardAutoloaderTest.php
+END
+AutoloadableClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/AutoloadableClass.php
+END
+AutoloadDoesNotHideParseError.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/AutoloadDoesNotHideParseError.php
+END
+ClassMapAutoloaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/ClassMapAutoloaderTest.php
+END
+PluginLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/PluginLoaderTest.php
+END
+AutoloaderFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/AutoloaderFactoryTest.php
+END
+MyOverloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/MyOverloader.php
+END

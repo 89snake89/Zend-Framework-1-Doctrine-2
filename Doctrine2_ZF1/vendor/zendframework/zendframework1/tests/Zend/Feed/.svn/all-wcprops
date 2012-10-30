@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed
+END
+ElementTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/ElementTest.php
+END
+IteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/IteratorTest.php
+END
+ImportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/ImportTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/AllTests.php
+END
+ArrayAccessTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/ArrayAccessTest.php
+END
+ReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/ReaderTest.php
+END
+AtomEntryOnlyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/AtomEntryOnlyTest.php
+END
+AtomPublishingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/AtomPublishingTest.php
+END
+CountTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/CountTest.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element
+END
+NullTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/NullTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/AllTests.php
+END
+StreamTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/StreamTest.php
+END
+ArrayTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/ArrayTest.php
+END
+BooleanTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/BooleanTest.php
+END
+NameTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/NameTest.php
+END
+NumericTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/NumericTest.php
+END
+DictionaryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/DictionaryTest.php
+END
+ObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/ObjectTest.php
+END
+StringTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Pdf/Element/StringTest.php
+END

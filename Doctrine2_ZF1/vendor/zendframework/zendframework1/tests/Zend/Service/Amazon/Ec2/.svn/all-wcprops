@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2
+END
+AvailabilityzonesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/AvailabilityzonesTest.php
+END
+EbsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/EbsTest.php
+END
+Ec2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/Ec2Test.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/AllTests.php
+END
+CloudWatchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/CloudWatchTest.php
+END
+ElasticipTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/ElasticipTest.php
+END
+InstanceWindowsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/InstanceWindowsTest.php
+END
+ImageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/ImageTest.php
+END
+AbstractTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/AbstractTest.php
+END
+RegionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/RegionTest.php
+END
+InstanceReservedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/InstanceReservedTest.php
+END
+InstanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/InstanceTest.php
+END
+KeypairTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/KeypairTest.php
+END
+SecuritygroupsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/Ec2/SecuritygroupsTest.php
+END

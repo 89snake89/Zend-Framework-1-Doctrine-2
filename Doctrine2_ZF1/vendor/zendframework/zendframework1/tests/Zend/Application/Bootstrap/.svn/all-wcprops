@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Bootstrap
+END
+BootstrapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Bootstrap/BootstrapTest.php
+END
+BootstrapAbstractTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Bootstrap/BootstrapAbstractTest.php
+END

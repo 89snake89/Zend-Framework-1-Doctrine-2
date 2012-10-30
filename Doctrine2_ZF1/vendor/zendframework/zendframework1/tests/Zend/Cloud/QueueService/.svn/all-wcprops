@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Cloud/QueueService
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Cloud/QueueService/AllTests.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Cloud/QueueService/TestCase.php
+END
+FactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Cloud/QueueService/FactoryTest.php
+END

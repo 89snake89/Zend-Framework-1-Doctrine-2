@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest
+END
+ProviderMetadataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/ProviderMetadataTest.php
+END
+RepositoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/RepositoryTest.php
+END

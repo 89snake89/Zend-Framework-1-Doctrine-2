@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/TestAsset/TestPlugins
+END
+Baz.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/TestAsset/TestPlugins/Baz.php
+END
+Foo.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/TestAsset/TestPlugins/Foo.php
+END
+Bar.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/TestAsset/TestPlugins/Bar.php
+END

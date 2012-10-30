@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Cloud/StorageService/_files/config
+END
+windowsazure.ini
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Cloud/StorageService/_files/config/windowsazure.ini
+END
+filesystem.ini
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Cloud/StorageService/_files/config/filesystem.ini
+END
+s3.ini
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Cloud/StorageService/_files/config/s3.ini
+END
+nirvanix.ini
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Cloud/StorageService/_files/config/nirvanix.ini
+END

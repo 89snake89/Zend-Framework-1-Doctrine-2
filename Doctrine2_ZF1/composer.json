@@ -1,0 +1,14 @@
+{
+    "require": {
+        "zendframework/zendframework1": "1.12.*",
+        "doctrine/orm": "2.3.0",
+        "doctrine/mongodb": "dev-master",
+        "doctrine/mongodb-odm": "dev-master"
+        
+    },
+    "autoload": {
+        "psr-0": {
+            "Zend": "library/"
+        }
+    }
+}

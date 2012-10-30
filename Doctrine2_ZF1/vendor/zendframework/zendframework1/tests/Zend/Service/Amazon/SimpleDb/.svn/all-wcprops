@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/SimpleDb
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/SimpleDb/AllTests.php
+END
+OfflineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/SimpleDb/OfflineTest.php
+END
+OnlineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Amazon/SimpleDb/OnlineTest.php
+END

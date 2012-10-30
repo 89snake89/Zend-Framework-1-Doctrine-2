@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Queue
+END
+CustomTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Queue/CustomTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Queue/AllTests.php
+END
+QueueBaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Queue/QueueBaseTest.php
+END
+MessageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Queue/MessageTest.php
+END
+QueueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Queue/QueueTest.php
+END
+Queue1Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Queue/Queue1Test.php
+END
+Queue2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Queue/Queue2Test.php
+END
+FactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Queue/FactoryTest.php
+END

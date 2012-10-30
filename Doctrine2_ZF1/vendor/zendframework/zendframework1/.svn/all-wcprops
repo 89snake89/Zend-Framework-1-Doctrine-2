@@ -1,0 +1,25 @@
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/composer.json
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/LICENSE.txt
+END
+Vagrantfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/Vagrantfile
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/INSTALL.txt
+END

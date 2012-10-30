@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Db
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Db/AllTests.php
+END
+NoRecordExistsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Db/NoRecordExistsTest.php
+END
+RecordExistsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Validate/Db/RecordExistsTest.php
+END

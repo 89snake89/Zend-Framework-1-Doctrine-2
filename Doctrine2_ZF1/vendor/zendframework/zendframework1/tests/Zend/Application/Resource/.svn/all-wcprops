@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource
+END
+DojoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/DojoTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/AllTests.php
+END
+FrontcontrollerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/FrontcontrollerTest.php
+END
+TranslateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/TranslateTest.php
+END
+UseragentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/UseragentTest.php
+END
+CacheManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/CacheManagerTest.php
+END
+NavigationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/NavigationTest.php
+END
+LocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/LocaleTest.php
+END
+MultidbTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/MultidbTest.php
+END
+ModulesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/ModulesTest.php
+END
+ViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/ViewTest.php
+END
+ResourceAbstractTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/ResourceAbstractTest.php
+END
+LayoutTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/LayoutTest.php
+END
+mailTestCAsE.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/mailTestCAsE.php
+END
+RouterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/RouterTest.php
+END
+LogTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/LogTest.php
+END
+MailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/MailTest.php
+END
+SessionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/SessionTest.php
+END
+DbTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Application/Resource/DbTest.php
+END

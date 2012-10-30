@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Filter/File
+END
+DecryptTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Filter/File/DecryptTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Filter/File/AllTests.php
+END
+EncryptTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Filter/File/EncryptTest.php
+END
+LowerCaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Filter/File/LowerCaseTest.php
+END
+RenameTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Filter/File/RenameTest.php
+END
+UpperCaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Filter/File/UpperCaseTest.php
+END

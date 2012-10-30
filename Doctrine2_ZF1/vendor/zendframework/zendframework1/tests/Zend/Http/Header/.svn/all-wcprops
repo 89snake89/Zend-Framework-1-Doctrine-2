@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Http/Header
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Http/Header/AllTests.php
+END
+SetCookieTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Http/Header/SetCookieTest.php
+END

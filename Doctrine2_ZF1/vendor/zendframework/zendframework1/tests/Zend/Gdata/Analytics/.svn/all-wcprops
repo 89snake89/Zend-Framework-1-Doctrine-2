@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/Analytics
+END
+DataFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/Analytics/DataFeedTest.php
+END
+DataQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/Analytics/DataQueryTest.php
+END
+AccountFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/Analytics/AccountFeedTest.php
+END
+AccountQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Gdata/Analytics/AccountQueryTest.php
+END

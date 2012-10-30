@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Mobile/Push/Message/Mpns
+END
+RawTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Mobile/Push/Message/Mpns/RawTest.php
+END
+ToastTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Mobile/Push/Message/Mpns/ToastTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Mobile/Push/Message/Mpns/AllTests.php
+END
+TileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Mobile/Push/Message/Mpns/TileTest.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Test
+END
+DbStatementTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Test/DbStatementTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Test/AllTests.php
+END
+DbAdapterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Test/DbAdapterTest.php
+END

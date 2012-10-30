@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/EventManager
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/EventManager/AllTests.php
+END
+StaticIntegrationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/EventManager/StaticIntegrationTest.php
+END
+EventManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/EventManager/EventManagerTest.php
+END
+GlobalEventManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/EventManager/GlobalEventManagerTest.php
+END
+StaticEventManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/EventManager/StaticEventManagerTest.php
+END
+FilterChainTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/EventManager/FilterChainTest.php
+END

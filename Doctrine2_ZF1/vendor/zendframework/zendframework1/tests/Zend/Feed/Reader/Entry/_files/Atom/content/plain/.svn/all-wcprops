@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/Reader/Entry/_files/Atom/content/plain
+END
+atom10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/Reader/Entry/_files/Atom/content/plain/atom10.xml
+END
+atom10_HtmlCdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/Reader/Entry/_files/Atom/content/plain/atom10_HtmlCdata.xml
+END
+atom03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/Reader/Entry/_files/Atom/content/plain/atom03.xml
+END
+atom10_Html.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/Reader/Entry/_files/Atom/content/plain/atom10_Html.xml
+END
+atom10_Xhtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Feed/Reader/Entry/_files/Atom/content/plain/atom10_Xhtml.xml
+END

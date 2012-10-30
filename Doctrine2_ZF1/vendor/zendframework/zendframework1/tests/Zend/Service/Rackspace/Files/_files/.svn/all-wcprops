@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files
+END
+testGetContainer.response
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetContainer.response
+END
+testGetMetadataContainer.response
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetMetadataContainer.response
+END
+testSetMetadataObject.response
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testSetMetadataObject.response
+END
+testStoreObject.response
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testStoreObject.response
+END
+testGetObjects.response
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetObjects.response
+END
+testDeleteObject.response
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testDeleteObject.response
+END
+testGetSizeContainers.request
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetSizeContainers.request
+END
+testCopyObject.request
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testCopyObject.request
+END
+testGetContainers.request
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetContainers.request
+END
+testGetObject.request
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetObject.request
+END
+testCreateContainer.request
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testCreateContainer.request
+END
+testGetSizeContainers.response
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetSizeContainers.response
+END
+testGetMetadataObject.request
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetMetadataObject.request
+END
+testDeleteContainer.response
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testDeleteContainer.response
+END
+testDeleteObject2.request
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testDeleteObject2.request
+END
+testGetObject.response
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetObject.response
+END
+testCreateContainer.response
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testCreateContainer.response
+END
+testGetMetadataContainer.request
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetMetadataContainer.request
+END
+testSetMetadataObject.request
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testSetMetadataObject.request
+END
+testStoreObject.request
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testStoreObject.request
+END
+testGetObjects.request
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetObjects.request
+END
+testDeleteObject.request
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testDeleteObject.request
+END
+testGetCdnContainers.request
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetCdnContainers.request
+END
+testGetCdnContainers.response
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetCdnContainers.response
+END
+testGetCountObjects.request
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetCountObjects.request
+END
+testDeleteContainer.request
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testDeleteContainer.request
+END
+testCopyObject.response
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testCopyObject.response
+END
+testGetInfoAccount.request
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetInfoAccount.request
+END
+testGetCountObjects.response
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetCountObjects.response
+END
+testUpdateCdnContainer.request
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testUpdateCdnContainer.request
+END
+testGetContainers.response
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetContainers.response
+END
+testGetMetadataObject.response
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetMetadataObject.response
+END
+testGetInfoAccount.response
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetInfoAccount.response
+END
+testGetCountContainers.request
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetCountContainers.request
+END
+testEnableCdnContainer.request
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testEnableCdnContainer.request
+END
+testUpdateCdnContainer.response
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testUpdateCdnContainer.response
+END
+testDeleteObject2.response
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testDeleteObject2.response
+END
+testGetContainer.request
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetContainer.request
+END
+testGetCountContainers.response
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testGetCountContainers.response
+END
+testEnableCdnContainer.response
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Files/_files/testEnableCdnContainer.response
+END

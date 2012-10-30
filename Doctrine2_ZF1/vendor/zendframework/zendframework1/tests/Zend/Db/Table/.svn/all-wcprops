@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Table
+END
+SqlsrvTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Table/SqlsrvTest.php
+END
+MysqliTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Table/MysqliTest.php
+END
+TestSetup.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Table/TestSetup.php
+END
+OracleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Table/OracleTest.php
+END
+Db2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Table/Db2Test.php
+END
+OdbcTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Table/OdbcTest.php
+END
+StaticTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Table/StaticTest.php
+END
+TestCommon.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Table/TestCommon.php
+END

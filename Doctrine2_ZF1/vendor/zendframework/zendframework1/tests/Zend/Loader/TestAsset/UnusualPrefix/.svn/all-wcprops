@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/TestAsset/UnusualPrefix
+END
+PrefixedClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Loader/TestAsset/UnusualPrefix/PrefixedClass.php
+END

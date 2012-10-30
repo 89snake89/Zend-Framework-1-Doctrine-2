@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/_files
+END
+ManifestGoodTwo.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/_files/ManifestGoodTwo.php
+END
+ProviderOne.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/_files/ProviderOne.php
+END
+ManifestBadMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/_files/ManifestBadMetadata.php
+END
+ActionOne.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/_files/ActionOne.php
+END
+ManifestGoodOne.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/_files/ManifestGoodOne.php
+END
+ProviderTwo.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/_files/ProviderTwo.php
+END
+ActionTwo.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/_files/ActionTwo.php
+END
+ManifestBadProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Tool/Framework/Manifest/_files/ManifestBadProvider.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/OpenId
+END
+ProviderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/OpenId/ProviderTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/OpenId/AllTests.php
+END
+ConsumerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/OpenId/ConsumerTest.php
+END
+ExtensionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/OpenId/ExtensionTest.php
+END
+ResponseHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/OpenId/ResponseHelper.php
+END

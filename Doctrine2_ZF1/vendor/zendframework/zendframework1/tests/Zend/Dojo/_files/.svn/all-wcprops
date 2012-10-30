@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Dojo/_files
+END
+BuildLayerOnLoad.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Dojo/_files/BuildLayerOnLoad.js
+END
+BuildLayer.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Dojo/_files/BuildLayer.js
+END
+BuildProfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Dojo/_files/BuildProfile.js
+END
+BuildLayerJavascript.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Dojo/_files/BuildLayerJavascript.js
+END
+BuildProfileWithDependencies.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Dojo/_files/BuildProfileWithDependencies.js
+END

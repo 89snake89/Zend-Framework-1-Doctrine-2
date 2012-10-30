@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/CodeGenerator/Php/_files
+END
+TestSampleSingleClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/CodeGenerator/Php/_files/TestSampleSingleClass.php
+END
+ClassAndInterfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/CodeGenerator/Php/_files/ClassAndInterfaces.php
+END
+TestClassWithManyProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/CodeGenerator/Php/_files/TestClassWithManyProperties.php
+END
+TestClassWithCodeInMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/CodeGenerator/Php/_files/TestClassWithCodeInMethod.php
+END
+zf-11703.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/CodeGenerator/Php/_files/zf-11703.php
+END
+zf-11703_1.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/CodeGenerator/Php/_files/zf-11703_1.php
+END

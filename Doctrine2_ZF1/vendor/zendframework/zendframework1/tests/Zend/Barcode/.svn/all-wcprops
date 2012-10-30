@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Barcode
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Barcode/AllTests.php
+END
+FactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Barcode/FactoryTest.php
+END

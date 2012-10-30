@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap
+END
+acl2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/acl2.xml
+END
+nodecl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/nodecl.xml
+END
+default1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/default1.xml
+END
+depth1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/depth1.xml
+END
+default2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/default2.xml
+END
+depth2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/depth2.xml
+END
+invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/invalid.xml
+END
+depth3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/depth3.xml
+END
+serverurl1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/serverurl1.xml
+END
+serverurl2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/serverurl2.xml
+END
+acl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/View/Helper/Navigation/_files/expected/sitemap/acl.xml
+END

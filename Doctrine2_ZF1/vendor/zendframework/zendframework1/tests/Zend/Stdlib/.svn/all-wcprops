@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Stdlib
+END
+CallbackHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Stdlib/CallbackHandlerTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Stdlib/AllTests.php
+END
+SplPriorityQueueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Stdlib/SplPriorityQueueTest.php
+END
+PriorityQueueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Stdlib/PriorityQueueTest.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Adapter/_files/Test
+END
+OracleStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Adapter/_files/Test/OracleStatement.php
+END
+Db2Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Adapter/_files/Test/Db2Statement.php
+END
+MysqliStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Adapter/_files/Test/MysqliStatement.php
+END
+PdoStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Db/Adapter/_files/Test/PdoStatement.php
+END

@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files
+END
+testResizeServer.request
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testResizeServer.request
+END
+testDeleteServer.request
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testDeleteServer.request
+END
+testCreateServer.request
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testCreateServer.request
+END
+testResizeServer.response
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testResizeServer.response
+END
+testGetServerPublicIp.request
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetServerPublicIp.request
+END
+testGetImageInfo.request
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetImageInfo.request
+END
+testGetFlavor.response
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetFlavor.response
+END
+testGetServerPrivateIp.response
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetServerPrivateIp.response
+END
+testChangeServerPassword.response
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testChangeServerPassword.response
+END
+testDisableBackupSchedule.request
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testDisableBackupSchedule.request
+END
+testListImages.response
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testListImages.response
+END
+testRebuildServer.response
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testRebuildServer.response
+END
+testAuthentication.response
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testAuthentication.response
+END
+testGetBackupSchedule.response
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetBackupSchedule.response
+END
+testGetImage.response
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetImage.response
+END
+testChangeServerPassword.request
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testChangeServerPassword.request
+END
+testDeleteServer.response
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testDeleteServer.response
+END
+testListSharedIpGroups.response
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testListSharedIpGroups.response
+END
+testGetServerIp.response
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetServerIp.response
+END
+testGetServer.request
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetServer.request
+END
+testCreateImage.request
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testCreateImage.request
+END
+testConfirmResizeServer.request
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testConfirmResizeServer.request
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/test.txt
+END
+testSoftRebootServer.request
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testSoftRebootServer.request
+END
+testChangeServerName.request
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testChangeServerName.request
+END
+testAuthentication.request
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testAuthentication.request
+END
+testListServers.request
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testListServers.request
+END
+testChangeBackupSchedule.request
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testChangeBackupSchedule.request
+END
+testGetServerPrivateIp.request
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetServerPrivateIp.request
+END
+testListSharedIpGroups.request
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testListSharedIpGroups.request
+END
+testChangeBackupSchedule.response
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testChangeBackupSchedule.response
+END
+testGetServerIp.request
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetServerIp.request
+END
+testCreateSharedIpGroup.request
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testCreateSharedIpGroup.request
+END
+testCreateServer.response
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testCreateServer.response
+END
+testRechangeServerName.request
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testRechangeServerName.request
+END
+testGetServerPublicIp.response
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetServerPublicIp.response
+END
+testGetImageInfo.response
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetImageInfo.response
+END
+testDeleteImage.request
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testDeleteImage.request
+END
+testDeleteSharedIpGroup.response
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testDeleteSharedIpGroup.response
+END
+testCreateSharedIpGroup.response
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testCreateSharedIpGroup.response
+END
+testListFlavors.request
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testListFlavors.request
+END
+testRechangeServerName.response
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testRechangeServerName.response
+END
+testDisableBackupSchedule.response
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testDisableBackupSchedule.response
+END
+testListFlavors.response
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testListFlavors.response
+END
+testGetBackupSchedule.request
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetBackupSchedule.request
+END
+testGetImage.request
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetImage.request
+END
+testSoftRebootServer.response
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testSoftRebootServer.response
+END
+testChangeServerName.response
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testChangeServerName.response
+END
+testGetFlavor.request
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetFlavor.request
+END
+testListServers.response
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testListServers.response
+END
+testDeleteSharedIpGroup.request
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testDeleteSharedIpGroup.request
+END
+testListImages.request
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testListImages.request
+END
+testDeleteImage.response
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testDeleteImage.response
+END
+testGetSharedIpGroup.request
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetSharedIpGroup.request
+END
+testGetServer.response
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetServer.response
+END
+testCreateImage.response
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testCreateImage.response
+END
+testConfirmResizeServer.response
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testConfirmResizeServer.response
+END
+testRebuildServer.request
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testRebuildServer.request
+END
+testRevertResizeServer.request
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testRevertResizeServer.request
+END
+testHardRebootServer.request
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testHardRebootServer.request
+END
+testGetSharedIpGroup.response
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testGetSharedIpGroup.response
+END
+testRevertResizeServer.response
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testRevertResizeServer.response
+END
+testHardRebootServer.response
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Service/Rackspace/Servers/_files/testHardRebootServer.response
+END

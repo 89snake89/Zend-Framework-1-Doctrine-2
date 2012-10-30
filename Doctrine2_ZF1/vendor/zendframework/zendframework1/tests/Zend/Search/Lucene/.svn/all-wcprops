@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene
+END
+Search23Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/Search23Test.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/AllTests.php
+END
+LuceneTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/LuceneTest.php
+END
+SearchHighlightTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/SearchHighlightTest.php
+END
+DocumentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/DocumentTest.php
+END
+AnalysisTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/AnalysisTest.php
+END
+FieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/FieldTest.php
+END
+SearchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/SearchTest.php
+END
+FSMTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/FSMTest.php
+END
+PriorityQueueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Search/Lucene/PriorityQueueTest.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Barcode/Renderer/_files
+END
+RendererNamespace.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Barcode/Renderer/_files/RendererNamespace.php
+END
+RendererNamespaceWithoutExtendingRendererAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/tests/Zend/Barcode/Renderer/_files/RendererNamespaceWithoutExtendingRendererAbstract.php
+END
